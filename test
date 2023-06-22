@@ -1,0 +1,46 @@
+{
+    "data": [
+        [
+             "2",
+             "111120",
+             "Soybean farming, field and seed production": "Canola farming, field and seed production"
+        ],
+        [
+             "3",
+             "111120",
+            "Soybean farming, field and seed production": "Flaxseed farming, field and seed production"
+        ],
+        [
+             "4",
+             "111120",
+            "Soybean farming, field and seed production": "Mustard seed farming, field and seed production"
+        ],
+        [
+            "5",
+            "111120",
+            "Soybean farming, field and seed production": "Oilseed farming (except soybean), field and seed production"
+        ],
+        [
+            "6",
+            "111120",
+            "Soybean farming, field and seed production": "Rapeseed farming, field and seed production"
+        ],
+        [
+            "7",
+            "111120",
+            "Soybean farming, field and seed production": "Safflower farming, field and seed production"
+        ],
+        [
+            "8",
+            "111120",
+            "Soybean farming, field and seed production": "Sesame farming, field and seed production"
+        ],
+        [
+           "9",
+           "111120",
+            "Soybean farming, field and seed production": "Sunflower farming, field and seed production"
+        ]
+  ]
+
+}
+       
